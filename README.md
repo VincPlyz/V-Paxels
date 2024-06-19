@@ -1,3 +1,6 @@
+# Releases found in [here](https://github.com/VincPlyz/V-Paxels/releases/tag/release)
+
+
 V-Paxels uses the new component capabilities to add craftable and functional paxels
 ------
 V-Paxels:
